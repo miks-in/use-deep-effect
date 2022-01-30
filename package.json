@@ -37,15 +37,8 @@
     "test": "jest --silent",
     "build": "tsc"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ikoichi/use-deep-effect.git"
-  },
+
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ikoichi/use-deep-effect/issues"
-  },
-  "homepage": "https://github.com/ikoichi/use-deep-effect#readme",
   "keywords": [
     "react",
     "hooks",
