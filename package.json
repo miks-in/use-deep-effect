@@ -1,8 +1,8 @@
 {
-  "name": "@lucarestagno/use-deep-effect",
+  "name": "@miks-in/use-deep-effect",
   "version": "1.0.7",
   "description": "React Hook useDeepEffect",
-  "author": "Luca Restagno <luca.restagno@gmail.com>",
+  "author": "",
   "main": "dist/useDeepEffect.js",
   "types": "dist/useDeepEffect.d.ts",
   "engines": {
